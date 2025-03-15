@@ -1,0 +1,14 @@
+per:
+https://developer.nvidia.com/gpugems/gpugems/part-v-performance-and-practicalities/chapter-28-graphics-pipeline-performance
+controlled for generalities:
+28.1.2 Methodology
+Optimization without proper bottleneck identification is the cause of much wasted development effort, and so we formalize the process into the following fundamental identification and optimization loop:
+
+1> Identify the bottleneck.
+        For each stage in the pipeline, vary either its workload or its computational ability (that is, [vroom, vroom]). If performance varies, you've found a bottleneck.
+2> Optimize. 
+        Given the bottlenecked stage---[[[> reduce its workload until performance stops improving <]]]---or until you achieve your desired level of performance.
+3&4&5&6&7&8> Repeat. 
+        Do steps 1 and 2 again until the desired performance level is reached.
+
+Guy from [somewhere] taught me that; he works for a guy from [somewhere] that...kinda owns the world.
