@@ -13,3 +13,6 @@ And it is alot like the old.
 never the less
 Testament.
 [wear shoes docta seuss lot ona noose/]
+
+
+ps my dudes there could be music & games too pfff yer not rdy yet
