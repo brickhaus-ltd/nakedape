@@ -1,4 +1,4 @@
-[Typical] I try to stay fairly centered; for a pretty & radical white native american.[/]
+[Typical] Fairly uncentered; for a pretty & radical white native american.[/]
 
 [a1a] Less the younger; but ever always for the elder[/]
 [a2a/] For all these musings; the price is free to you[/]
