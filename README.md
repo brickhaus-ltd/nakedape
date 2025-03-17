@@ -9,7 +9,7 @@ if it still doesn't work for you; think of it like this: I'm an alien on your pl
 [a2a/] For all these musings; the price is free to you[/]
 [&a/] Much as it was; to me[/]
 [3a/] It isn't anything new.[/]
-And it is alot like the old.
+Ask a-lot like the yea-olde.
 never the less
 Testament.
 [wear shoes docta seuss lot ona noose/]
