@@ -5,7 +5,8 @@ if it still doesn't work for you; think of it like this: I'm an alien on your pl
 
 [Typical] Fairly self-uncentereding; for a paddling & rad white, native blue american.[/]
 
-[a1a] Less the younger; but ever always for the elder[/]
+[li][a1a] Less the younger; but ever always for the elder[/]
+
 [a2a/] For all these musings; the price is free to you[/]
 [&a/] Much as it was; to me[/]
 [3a/] It isn't anything new.[/]
