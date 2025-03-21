@@ -1,5 +1,6 @@
+tube: 
 watch?v=7upcaiFe1Ug&list=PLfJndz0utgOP2Nqnh60tYbAUDAwfieBnX
-^pull up the tube & have a groove
+
 
 if any of this doesnt work for you; got to the top and get a better view https://github.com/brickhaus-ltd/
 if it still doesn't work for you; think of it like this: I'm an alien on your planet. This is what I came here to do.
